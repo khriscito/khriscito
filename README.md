@@ -1,4 +1,9 @@
-### Hi there 👋
+<img src="https://media.licdn.com/dms/image/D4E16AQGXXfxdKqiicA/profile-displaybackgroundimage-shrink_350_1400/0/1683492477313?e=1689206400&v=beta&t=ywhVivhRejHuwJGASOjkD4v9P8Cc9ZoTrYXmk8i1T5s" alt="Banner about Khristhopher Leon">
+
+[![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khristhopher1000@gmail.com)](mailto:khristhopher100@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/khriscito)]([https://space.bilibili.com/7708412](https://github.com/khriscito))
+
+
 
   <h3> 💻 Languages and Tools </h3>
   <p>
