@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
 
 <!--
 **khriscito/khriscito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
