@@ -16,6 +16,8 @@
 -  🌱**Learning :** Django :clipboard: Machine learning :robot:
 -  😄**Hobbies :** Videogames :video_game: | Sports :soccer: | Tech: Everything involved in the space exploration :rocket: | Anime : One piece :pirate_flag:
 -  📫**Where you can reach me:** Feel free to contact me :-)
+
+
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khristhopher1000@gmail.com)](mailto:khristhopher100@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/khriscito)](https://github.com/khriscito)
 [![Linkedin Badge](https://img.shields.io/badge/-Khristhopher_Leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khristhopherleon//)](https://www.linkedin.com/in/khristhopherleon/)
