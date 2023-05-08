@@ -24,13 +24,15 @@
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=584149214245&text=Hi!)](https://api.whatsapp.com/send?phone=584149214245&text=Hi!)
 
 
-  <h3> 💻 Languages and Tools </h3>
-  <p>
+  <h3 align="center" padding="10px")> 💻 Languages and Tools </h3>
+  <p align="center">
    <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50"><img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp"   width="50"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50"><img src="https://media3.giphy.com/media/XEDIHHp3i8bVoEdxd7/giphy.gif"width="50"><img src="https://static.javatpoint.com/tutorial/flask/images/flask-tutorial.png"width="50">
   <p>
 
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
-
+   <div align="center">
+       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+   </div>
+    
 <!--
 **khriscito/khriscito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
