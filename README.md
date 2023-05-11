@@ -6,7 +6,7 @@
   
   [![Linkedin Badge](https://img.shields.io/badge/-Khristhopher_Leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khristhopherleon//)](https://www.linkedin.com/in/khristhopherleon/)
   [![Email Badge](https://img.shields.io/badge/-khristhopher1000@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khristhopher1000@gmail.com)](mailto:khristhopher100@gmail.com)
-  [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=584149214245&text=Hi!)](https://api.whatsapp.com/send?phone=584149214245&text=Hi!)
+
   
 </div>
 
@@ -21,7 +21,7 @@
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:khristhopher1000@gmail.com)](mailto:khristhopher100@gmail.com)
 [![Github Badge](https://img.shields.io/badge/-Github-232323?style=flat-square&logo=Github&logoColor=white&link=https://github.com/khriscito)](https://github.com/khriscito)
 [![Linkedin Badge](https://img.shields.io/badge/-Khristhopher_Leon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/khristhopherleon//)](https://www.linkedin.com/in/khristhopherleon/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=584149214245&text=Hi!)](https://api.whatsapp.com/send?phone=584149214245&text=Hi!)
+
 
 <br>
   <h3 align="center" padding="10px")> 💻 Languages and Tools </h3>
