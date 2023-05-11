@@ -12,6 +12,12 @@
 
 
 ### 🤔 About me <img width="30%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+
+
+I'm a passionate fast learning developer, good for improving solutions in many fields such as development, sales, marketing, and customer services, and. I'm always looking to learn new techs and make new projects, I'm constantly looking for new challenges and opportunities.
+
+I like to play soccer, play videogames and watch anime :-) 
+
 -  🔭**Working :**  Web Development projects :computer: 
 -  🌱**Learning :** Django :clipboard: Machine learning :robot:
 -  😄**Hobbies :** Videogames :video_game: | Sports :soccer: | Space exploration :rocket: | **Anime** One Piece :pirate_flag:
