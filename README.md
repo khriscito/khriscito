@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4E16AQGXXfxdKqiicA/profile-displaybackgroundimage-shrink_350_1400/0/1683492477313?e=1689206400&v=beta&t=ywhVivhRejHuwJGASOjkD4v9P8Cc9ZoTrYXmk8i1T5s" alt="Banner about Khristhopher Leon">
+[![banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-2.png](https://i.postimg.cc/CL7s8qyr/banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-2.png)](https://postimg.cc/8jFvQszL)
 
 <h3 align="center">  Tech Enthusiast | Systems Engineer </h3> <br>
 
