@@ -1,4 +1,6 @@
-[![banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-2.png](https://i.postimg.cc/CL7s8qyr/banner-para-linkedin-experto-en-marketing-digital-profesional-negro-y-azul-2.png)](https://postimg.cc/8jFvQszL)
+<img src="/banner para linkedin experto en marketing digital profesional negro y azul (2).png" alt="Descripción de la imagen">
+
+
 
 <h3 align="center">  Tech Enthusiast | Systems Engineer </h3> <br>
 
