@@ -20,7 +20,7 @@ I'm a passionate fast learning developer, good for improving solutions in many f
 
 I like to play soccer, play videogames and watch anime :-) 
 
--  🔭**Working :**  Web Development projects :computer: 
+-  🔭**Working :**  Developing a react native app :computer: 
 -  🌱**Learning :** Django :clipboard: Machine learning :robot:
 -  😄**Hobbies :** Videogames :video_game: | Sports :soccer: | Space exploration :rocket: | **Anime** One Piece :pirate_flag:
 -  📫**Where you can reach me:** Feel free to contact me :-)
