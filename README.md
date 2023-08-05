@@ -1,4 +1,4 @@
-<img src="/banner para linkedin experto en marketing digital profesional negro y azul (2).png" alt="Descripción de la imagen">
+<img src="/BANNER_LKD_2.jpg" alt="Descripción de la imagen">
 
 
 
