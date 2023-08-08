@@ -1,4 +1,4 @@
-<img src="/BANNER_LKD_V2.jpg" alt="Descripción de la imagen">
+<img src="/BANNER_LKD_V3.jpg" alt="Descripción de la imagen">
 
 
 
